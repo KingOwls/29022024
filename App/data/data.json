@@ -1,0 +1,48 @@
+{
+  "task": [
+    {
+      "id": "1",
+      "nameTask": "Task 1",
+      "startDate": "2024-02-27",
+      "endDate": "2024-03-05",
+      "person": "John Doe",
+      "taskType": "medium",
+      "status": "terminada"
+    },
+    {
+      "id": "2",
+      "status": "cancelada",
+      "taskType": "urgent",
+      "nameTask": "11",
+      "startDate": "1111-11-11",
+      "endDate": "1111-11-11",
+      "person": "1"
+    },
+    {
+      "id": "3",
+      "taskType": "low",
+      "nameTask": "111",
+      "startDate": "1111-11-11",
+      "endDate": "1111-11-11",
+      "person": "111"
+    },
+    {
+      "id": "4",
+      "status": "terminada",
+      "taskType": "medium",
+      "nameTask": "we",
+      "startDate": "1111-11-11",
+      "endDate": "0111-11-11",
+      "person": "111"
+    },
+    {
+      "id": "5",
+      "status": "pendiente",
+      "taskType": "medium",
+      "nameTask": "we2",
+      "startDate": "11111-11-11",
+      "endDate": "0111-11-11",
+      "person": "111"
+    }
+  ]
+}
